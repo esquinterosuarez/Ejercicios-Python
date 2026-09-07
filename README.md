@@ -1,1 +1,1 @@
-Soy estudiante de tecnología en Análisis y Desarrollo de Software (SENA), dejando mi progreso en cuestión de aprendizajes en clase. Este repositorio contiene ejercicios de Python (lógica de programación, manejo de diccionarios, conversión ASCII) y ejercicios básicos de SQL.
+Soy estudiante de tecnología en Análisis y Desarrollo de Software (SENA), dejando mi progreso en cuestión de aprendizajes en clase. Este repositorio contiene ejercicios de Python (lógica de programación, manejo de diccionarios(básico), conversión ASCII) y ejercicios básicos de SQL.
